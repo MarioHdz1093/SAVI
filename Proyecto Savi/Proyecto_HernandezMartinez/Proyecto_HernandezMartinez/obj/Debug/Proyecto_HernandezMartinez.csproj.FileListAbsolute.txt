@@ -1,0 +1,72 @@
+c:\users\elziz\onedrive\documentos\visual studio 2015\Projects\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\bin\Debug\Proyecto_HernandezMartinez.exe.config
+c:\users\elziz\onedrive\documentos\visual studio 2015\Projects\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.csprojResolveAssemblyReference.cache
+c:\users\elziz\onedrive\documentos\visual studio 2015\Projects\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.Form1.resources
+c:\users\elziz\onedrive\documentos\visual studio 2015\Projects\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.Properties.Resources.resources
+c:\users\elziz\onedrive\documentos\visual studio 2015\Projects\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.csproj.GenerateResource.Cache
+c:\users\elziz\onedrive\documentos\visual studio 2015\Projects\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\bin\Debug\Proyecto_HernandezMartinez.exe
+c:\users\elziz\onedrive\documentos\visual studio 2015\Projects\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\bin\Debug\Proyecto_HernandezMartinez.pdb
+c:\users\elziz\onedrive\documentos\visual studio 2015\Projects\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.exe
+c:\users\elziz\onedrive\documentos\visual studio 2015\Projects\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.pdb
+c:\users\elziz\onedrive\documentos\visual studio 2015\Projects\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaConsulta.resources
+c:\users\elziz\onedrive\documentos\visual studio 2015\Projects\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaVentas.resources
+c:\users\elziz\onedrive\documentos\visual studio 2015\Projects\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaAyuda.resources
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\bin\Debug\Proyecto_HernandezMartinez.exe.config
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.exe
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.pdb
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\bin\Debug\Proyecto_HernandezMartinez.exe
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\bin\Debug\Proyecto_HernandezMartinez.pdb
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.csprojResolveAssemblyReference.cache
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.Form1.resources
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.Properties.Resources.resources
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaAyuda.resources
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaConsulta.resources
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaVentas.resources
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.csproj.GenerateResource.Cache
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaUsuario.resources
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.ventanaNueUsu.resources
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaTipoVenta.resources
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaNuevoArticulo.resources
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaAddArticulo.resources
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaClienteServidor.resources
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaEliminaUsu.resources
+C:\Users\elziz\Desktop\Mario Cosas\trabajos semestre 18\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaEliminaArticulo.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\bin\Debug\Proyecto_HernandezMartinez.exe.config
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.exe
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.pdb
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\bin\Debug\Proyecto_HernandezMartinez.exe
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\bin\Debug\Proyecto_HernandezMartinez.pdb
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.csprojResolveAssemblyReference.cache
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.Form1.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.Properties.Resources.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaAddArticulo.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaAyuda.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaClienteServidor.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaConsulta.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaEliminaArticulo.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaEliminaUsu.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.ventanaNueUsu.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaNuevoArticulo.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaTipoVenta.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaUsuario.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaVentas.resources
+C:\Users\elziz\Desktop\Proyecto visual\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.csproj.GenerateResource.Cache
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\bin\Debug\Proyecto_HernandezMartinez.exe.config
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.exe
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.pdb
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\bin\Debug\Proyecto_HernandezMartinez.exe
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\bin\Debug\Proyecto_HernandezMartinez.pdb
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.csprojResolveAssemblyReference.cache
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.Form1.resources
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.Properties.Resources.resources
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaAddArticulo.resources
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaAyuda.resources
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaClienteServidor.resources
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaConsulta.resources
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaEliminaArticulo.resources
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaEliminaUsu.resources
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.ventanaNueUsu.resources
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaNuevoArticulo.resources
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaTipoVenta.resources
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaUsuario.resources
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.VentanaVentas.resources
+C:\Users\elziz\Desktop\Proyecto Savi\Proyecto_HernandezMartinez\Proyecto_HernandezMartinez\obj\Debug\Proyecto_HernandezMartinez.csproj.GenerateResource.Cache
